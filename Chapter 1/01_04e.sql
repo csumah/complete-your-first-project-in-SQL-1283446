@@ -1,3 +1,4 @@
 -- Sort Orders table
-SELECT * FROM Orders
+SELECT *
+FROM Orders
 ORDER BY CreationDate DESC;
